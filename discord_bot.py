@@ -33,4 +33,4 @@ async def on_message(message):
     await message.channel.send(response)
 
 # Запуск бота с помощью токена вашего приложения Discord
-client.run('MTE3MDk4MDUxMDEzOTQyMDgwMw.GMjoI3.-X7f8FbFdWKwNrc4djXfDGG3Dl6bT-8guaNxo8')
+client.run('#')
